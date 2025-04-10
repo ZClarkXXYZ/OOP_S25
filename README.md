@@ -12,4 +12,5 @@ To Do:
 
 -use those clickable boxes for a "game" of a sort
 
+-remember to learn to make comments and docstrings and everything to make it readable
 
